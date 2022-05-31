@@ -1,0 +1,7 @@
+abcdefg
+abc"def"g
+7
+123 987
+aabbcd@ya.ru
++7 (927) 123-123-4
+
